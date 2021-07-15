@@ -6,3 +6,8 @@ print('AD/Metric:  '+n2[1])
 print('Next-Hop:  ' + n2[3])
 print('Last update:  ' + n2[4])
 print('Outbound Interface:  ' + n2[5])
+
+
+
+
+
